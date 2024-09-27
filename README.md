@@ -79,7 +79,8 @@ The application is divided into a frontend (Vue.js) and a backend (Express.js) c
 ### Confirm Appointment Page
 ![Screenshot 2024-09-27 at 15-43-17 AppSalon - Vue 3 Node js Express MongoDB TailwindCSS Pinia](https://github.com/user-attachments/assets/31c4b690-044a-45a1-97b9-4ca6277dc1d1)
 
-
+### Admin Panel Page
+![Screenshot 2024-09-27 at 16-19-35 AppSalon - Vue 3 Node js Express MongoDB TailwindCSS Pinia](https://github.com/user-attachments/assets/2777e115-92c7-4211-8b3e-452377d159fe)
 
 
 
