@@ -2,6 +2,10 @@
 ## Description
 
 This comprehensive application is designed for a beauty salon, allowing users to register, book appointments, and manage their reservations. The project can be easily adapted to serve other service-based industries, such as psychologists, doctors, and various professionals who require an appointment booking system.
+
+Back-End source code: https://github.com/FerGMdev/Salon-Booking-App-FrontEnd-MEVN
+Front-End source code: https://github.com/FerGMdev/Salon-Booking-App-FrontEnd-MEVN
+
 ## Features
 ### User Authentication
 
